@@ -50,7 +50,6 @@ The repository includes prototype interfaces demonstrating:
 docs/          Project report documentation
 diagrams/      UML diagrams
 prototypes/    User interface prototypes
-references/    Supporting references
 ```
 
 ---
